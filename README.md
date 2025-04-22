@@ -26,7 +26,7 @@ It provides insights into pricing, shipping types, and their impact on product s
 - **Free Shipping** significantly boosts average sales
 - **Lower-priced** items tend to sell more
 - **Few products** contribute to a majority of total sales
-- Most product prices fall between **$20 and $80**
+- Most product prices fall between **20 and 80**
 
 
 

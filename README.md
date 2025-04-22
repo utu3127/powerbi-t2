@@ -1,4 +1,4 @@
-E-Commerce Furniture Sales Dashboard (2024)
+# 🛒 E-Commerce Furniture Sales Dashboard (2024)
 This Power BI project explores and visualizes an e-commerce furniture dataset consisting of 2,000 products collected from AliExpress. 
 It provides insights into pricing, shipping types, and their impact on product sales.The main focus is on creating a **compelling data story** through interactive visuals.
 
